@@ -1,0 +1,9 @@
+{
+  "name": "wf-standby-migrate-sample",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "lint": "node --check src/app.js && node --check src/app.test.js",
+    "test": "node --test"
+  }
+}
