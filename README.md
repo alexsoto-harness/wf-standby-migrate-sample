@@ -10,3 +10,6 @@ console.log(app.describe());
 ```
 
 Status: ready for import comparison.
+
+Incremental import check: a pull request opened after the initial migration.
+
